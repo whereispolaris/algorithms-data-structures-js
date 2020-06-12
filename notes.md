@@ -253,5 +253,7 @@ Code For ArrayList
 - Big O of get and delete
 
 ```
-Code For LinkedList
+Code For LinkedList - Class
+
+Code For LinkedList - Object
 ```
